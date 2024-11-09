@@ -1,4 +1,4 @@
-        
+       
 [
   {
     "patchName": "Custom branding name for YouTube",
@@ -6,6 +6,15 @@
       {
         "key": "AppName",
         "value": "YT-Bansos"
+      }
+    ]
+  },
+  {
+    "patchName": "GmsCore support",
+    "options": [
+      {
+        "key": "PackageNameYouTube",
+        "value": "yeteku.bnsos"
       }
     ]
   }
